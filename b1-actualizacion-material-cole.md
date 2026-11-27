@@ -19,7 +19,7 @@ git log --oneline -1
 
 ## 🛠️ Qué he hecho
 
-(Los pasos que has seguido. No copies el enunciado: cuenta lo que hiciste tú.)
+He borrado el desactualizado B1_Entorno, y lo he vuelto a clonar 
 
 ## 🚩 Qué me ha fallado y cómo lo he resuelto
 
